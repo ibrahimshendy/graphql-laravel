@@ -19,3 +19,6 @@ yarn-error.log
 /.vscode
 Dockerfile
 docker-compose.yml
+programmatic-types.graphql
+schema-directives.graphql
+_lighthouse_ide_helper.php
